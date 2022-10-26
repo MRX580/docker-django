@@ -3,4 +3,6 @@ Open terminal and type this
 <br>
 <code>sudo apt-get install docker-compose</code>
 <br>
+<code>docker-compose build</code>
+<br>
 <code>sudo docker-compose up</code>
